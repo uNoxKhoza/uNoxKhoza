@@ -4,10 +4,12 @@ Hey there, it's a pleasure to meet you!
 
 **About Me**
 
-Welcome to my world of technology and creativity! I’m Noxolo Khoza, an aspiring Software Developer and Data Scientist with a background in Systems Development and Web Development. Currently, I'm advancing my skills through the Applied Data Science Lab from WorldQuant University. I hold an NQF 5 Systems Development certification from WeThinkCode_ and a Web Development qualification from SheCodes. I'm passionate about combining software, data science, and  web development to create impactful digital solutions.
-Experience
+Welcome to my world of technology and creativity!
+I’m Noxolo Khoza, an aspiring Software Developer and Data Scientist with a background in Systems Development and Web Development. I hold an NQF 5 Systems Development certification from WeThinkCode_ and a Web Development qualification from SheCodes.
 
-My journey has included diverse experiences in software and web development. I have a keen interest in Front End development, open-source projects, and data-driven solutions. I'm excited to bring my unique skill set to new challenges and collaborations in the tech space.
+I recently completed the Applied Data Science Lab from WorldQuant University and am currently enrolled in their Applied AI Lab, continuing to build my skills in advanced data science and artificial intelligence.
+
+I'm passionate about combining software development, data science, and web technologies to create impactful digital solutions.
 
 **🛠️ Technologies & Skills**
 
